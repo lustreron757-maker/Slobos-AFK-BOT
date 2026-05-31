@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlueSkiesSMP-PcOK.aternos.me",
-    "port": 63347
+    "ip": "BlueskiesSMP.aternos.me",
+    "port": 58857
     ,
     "version": "1.21.1"
   },
