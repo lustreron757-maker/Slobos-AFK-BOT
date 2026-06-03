@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "blueskysmp-ADzm.aternos.me",
+    "port": 47210,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "TECHOBLADE NEVER DIES",
+        "Be respectful and kind",
+        "Kane is cute"
       ]
     },
     "chat-log": true,
